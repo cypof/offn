@@ -1,2 +1,1 @@
-offn
-====
+Concurrent scalable off-heap store. Adaptation of Doug Lea's ConcurrentSkipListMap to run on native memory.
